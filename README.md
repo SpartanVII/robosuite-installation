@@ -3,7 +3,7 @@ The goal of this repository is to store a script that is capable of installing r
 
 ## Installation Guide
 Steps to install it:
-- Go to the folder where you want to install it
+- Go to the folder where you want to install Robosuite
 - Open a terminal
 - Run the following command
   * sh robosuite-install.sh
