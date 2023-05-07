@@ -4,8 +4,8 @@ The goal of this repository is to store a script that is capable of installing r
 ## Installation
 Steps to install Robosuite:
 - Go to the folder where you want to do the installation
-- Open a terminal
-- Run the following command
+- Download the script and copy it to the folder
+- Open a terminal and run the following command
   * sh robosuite-install.sh
   
 ## Common errors
